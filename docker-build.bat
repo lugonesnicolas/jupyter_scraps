@@ -1,0 +1,1 @@
+docker build -t beon-jupyter:0.0.1
